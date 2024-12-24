@@ -21,7 +21,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/abenaacs/iCog-Labs_week-2_Decision-Tree-.git
-cd sentiment-analysis
+cd iCog-Labs_week-2_Decision-Tree
 ```
 
 ### 2. Set Up a Virtual Environment
@@ -79,7 +79,7 @@ Once you have set up the environment and obtained the dataset, follow these step
    jupyter notebook
    ```
 
-2. Open the `sentiment_analysis.ipynb` file from the Jupyter interface.
+2. Open the `decision_tree.ipynb` file from the Jupyter interface.
 
 3. Run the notebook cell by cell by clicking "Run" or pressing **Shift + Enter**.
 
@@ -109,7 +109,7 @@ The output will include the following:
 
 ### 8. License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
@@ -118,7 +118,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 sentiment-analysis/
 │
-├── sentiment_analysis.ipynb      # Jupyter Notebook for sentiment analysis and decision tree
+├── decision_tree.ipynb      # Jupyter Notebook for sentiment analysis and decision tree
 ├── requirements.txt              # List of required Python libraries
 ├── README.md                     # This README file
 └── data/
