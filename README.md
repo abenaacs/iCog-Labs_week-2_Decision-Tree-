@@ -20,7 +20,7 @@ Ensure you have Python 3.7+ installed on your machine. You will also need to set
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/abenaacs/iCog-Labs_week-2_Decision-Tree-.git
 cd sentiment-analysis
 ```
 
